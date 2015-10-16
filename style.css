@@ -4,9 +4,9 @@ html {
 
 body {
     font-family: "Fira Sans", sans-serif;
+    background: transparent linear-gradient(135deg, #0B0A38, #1A1884, #2724C4) repeat scroll 0% 0%;
 }
 
 #content {
     color: white;
-    background: transparent linear-gradient(135deg, #0B0A38, #1A1884, #2724C4) repeat scroll 0% 0%;
 }
