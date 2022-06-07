@@ -15,4 +15,5 @@ body {
 #content a,
 #content a:hover {
     color: white;
+    text-decoration: underline;
 }
