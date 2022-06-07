@@ -11,3 +11,7 @@ body {
     color: white;
     padding-top: 8em;
 }
+
+#content .a .a:hover {
+    color: white;
+}
