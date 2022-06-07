@@ -12,6 +12,7 @@ body {
     padding-top: 8em;
 }
 
-#content .a .a:hover {
+#content .a,
+#content .a:hover {
     color: white;
 }
